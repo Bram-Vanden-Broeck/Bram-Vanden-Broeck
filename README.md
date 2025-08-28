@@ -2,7 +2,7 @@
 - 👀 I’am passionate about making quality software and making businesses grow.
 - 🌱 I'm continuously learning
 
-
+-----------------------------------------------
  
 - Owner of <a href="https://celegens.com?source=github">Celegens.com</a>
 - Bestuurder van XVE.Dev <a href="https://xve.be/xve-dev?source=github">xve.be</a>
