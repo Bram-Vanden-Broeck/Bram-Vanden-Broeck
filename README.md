@@ -1,15 +1,12 @@
-- 👋 Hi, I’m @Bram-Vanden-Broeck
-- 👀 I’am passionate about making quality software and making businesses grow.
-- 🌱 I'm continuously learning
+# Bram Vanden Broeck
 
------------------------------------------------
- 
-- Owner of <a href="https://celegens.com?source=github">Celegens.com</a>
-- Bestuurder van XVE.Dev <a href="https://xve.be/xve-dev?source=github">xve.be</a>
-- Creator of <a href="https://afspraakplanning.be?source=github">https://afspraakplanning.be</a>
-- 📫 How to reach me bram@celegens.com
+I build software that makes businesses run smoother: custom applications,
+API integrations and process automation for Belgian SMEs.
 
-<!---
-Bram-Vanden-Broeck/Bram-Vanden-Broeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **XVE.Dev** — custom software & automation · [xve.be/xve-dev](https://xve.be/xve-dev/)
+- **Afspraakplanning.be** — Belgian online booking platform, used by 880+ businesses · [afspraakplanning.be](https://afspraakplanning.be)
+- **Celegens** — my software company since 2019 · [celegens.com](https://celegens.com)
+
+**Stack:** PHP · Laravel · JavaScript · SQL · API integrations
+
+📫 [LinkedIn](https://be.linkedin.com/in/bram-vanden-broeck-6b2056106) · bram@xve.be
